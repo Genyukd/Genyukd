@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on testing projects, light coding
 - 📫 How to reach me: via e-mail, LinkedIn
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: How PhD in Economics turns to Junior in QA ))
 
 <!---
 Genyukd/Genyukd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
