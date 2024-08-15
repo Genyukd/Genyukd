@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitrii @Genyukd!
 - 👀 I’m interested in everything conserning QA, Automation and code writing in Python and JS
-- 🌱 I’m currently learning QA Automation in TripleTen Israel
+- 🌱 In August 2024 I finished QA Automation bootcamp in TripleTen and started my QA journey
 - 💞️ I’m looking to collaborate on testing projects, light coding
 - 📫 How to reach me: via e-mail, LinkedIn
 - 😄 Pronouns: ...
